@@ -16,7 +16,7 @@ const Uploaded = () => {
       <img src={IconChecked} alt="icon-checked" className="uploaded__checked" />
       <h2 className="title">Uploaded Successfully</h2>
       <div className="uploaded__image">
-        <img src={link} alt="image" className="" />
+        <img src={link} alt="to-copy" />
       </div>
       <div className="uploaded__bottom">
         <p className="uploaded__link">{link}</p>
